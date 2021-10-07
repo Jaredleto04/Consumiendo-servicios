@@ -1,0 +1,5 @@
+Diferiencia entre callback y promise
+El callback se utiliza como un parámetro y ejecuta en el mismo hilo del setTimeout.
+este hace que el código empiece a crecer en indentación.
+El promise ofrece una mejor API haciendo que nuestro código sea más legible de implementar
+permite encadenar las funciones que se quiere correr,una detras de la otra.
